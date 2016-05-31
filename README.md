@@ -6,6 +6,7 @@ IDE: Visual Studio 2015
 
 Platform: Windows with .Net Framework 4.0
 
+
 Description:
 
 It's a Gomoku battle system, including both the online and offline parts.
